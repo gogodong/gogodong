@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gogodong.
-- 👀 I’m interested in Fallout4.
+- 👀 I’m interested in LLM and Zelda！
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on NOTIHING.
 - 📫 How to reach me? I do not know.
