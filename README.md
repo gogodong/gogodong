@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gogodong.
-- 👀 I’m interested in LLM and Zelda！
-- 🌱 I’m currently learning Deep Learning.
+- 👀 I’m interested in LLM and Game Theory！
+- 🌱 I’m currently learning Data Minimization.
 - 💞️ I’m looking to collaborate on NOTIHING.
 - 📫 How to reach me? I do not know.
 
